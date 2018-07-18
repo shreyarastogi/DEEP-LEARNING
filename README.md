@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi! everyone
+everything is a mystery waiting to be unraveled...
